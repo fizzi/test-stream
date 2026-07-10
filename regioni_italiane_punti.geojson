@@ -11,6 +11,216 @@
     {
       "type": "Feature",
       "properties": {
+        "regione": "Abruzzo",
+        "capoluogo": "L'Aquila"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3995,
+          42.3498
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "regione": "Basilicata",
+        "capoluogo": "Potenza"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.8051,
+          40.6404
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "regione": "Calabria",
+        "capoluogo": "Catanzaro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.5944,
+          38.9098
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "regione": "Campania",
+        "capoluogo": "Napoli"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.2681,
+          40.8518
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "regione": "Emilia-Romagna",
+        "capoluogo": "Bologna"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3426,
+          44.4949
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "regione": "Friuli-Venezia Giulia",
+        "capoluogo": "Trieste"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.7768,
+          45.6495
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "regione": "Lazio",
+        "capoluogo": "Roma"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4964,
+          41.9028
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "regione": "Liguria",
+        "capoluogo": "Genova"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.9463,
+          44.4056
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "regione": "Lombardia",
+        "capoluogo": "Milano"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.19,
+          45.4642
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "regione": "Marche",
+        "capoluogo": "Ancona"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5189,
+          43.6158
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "regione": "Molise",
+        "capoluogo": "Campobasso"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.6592,
+          41.5603
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "regione": "Piemonte",
+        "capoluogo": "Torino"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.6869,
+          45.0703
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "regione": "Puglia",
+        "capoluogo": "Bari"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.8719,
+          41.1171
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "regione": "Sardegna",
+        "capoluogo": "Cagliari"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1217,
+          39.2238
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "regione": "Sicilia",
+        "capoluogo": "Palermo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3614,
+          38.1157
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "regione": "Toscana",
         "capoluogo": "Firenze"
       },
