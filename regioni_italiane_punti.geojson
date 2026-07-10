@@ -63,20 +63,6 @@
           45.737
         ]
       }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "regione": "Veneto",
-        "capoluogo": "Venezia"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          12.3155,
-          45.4408
-        ]
-      }
     }
   ]
 }
