@@ -21,62 +21,6 @@
           43.7696
         ]
       }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "regione": "Trentino-Alto Adige",
-        "capoluogo": "Trento"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          11.1211,
-          46.0748
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "regione": "Umbria",
-        "capoluogo": "Perugia"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          12.3888,
-          43.1107
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "regione": "Valle d'Aosta",
-        "capoluogo": "Aosta"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.3201,
-          45.737
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "regione": "Veneto",
-        "capoluogo": "Venezia"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          12.3155,
-          45.4408
-        ]
-      }
     }
   ]
 }
