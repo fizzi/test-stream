@@ -25,20 +25,6 @@
     {
       "type": "Feature",
       "properties": {
-        "regione": "Basilicata",
-        "capoluogo": "Potenza"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.8051,
-          40.6404
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "regione": "Calabria",
         "capoluogo": "Catanzaro"
       },
